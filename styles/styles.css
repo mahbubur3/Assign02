@@ -11,8 +11,3 @@
   font-variation-settings:
     "wdth" 100;
 }
-
-body {
-  max-width: 1280px;
-  margin: auto;
-}
